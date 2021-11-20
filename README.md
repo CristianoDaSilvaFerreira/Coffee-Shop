@@ -5,7 +5,7 @@
 <h1>Coffee Shop</h1>
 <p>Um website feito em HTML, CSS e JavaScript fictício de uma cafeteira</p> 
 
-<img src="https://user-images.githubusercontent.com/68359459/141656671-ec78a68e-5173-4ff5-9127-92aaf18acd59.png">
+<img src="https://user-images.githubusercontent.com/68359459/142725097-9584fe38-a748-4ab6-82dd-1029f34e8dbe.png">
 
 ## 📥 Instalação e execução
 Faça um clone desse repósitorio, e acesse esse diretório
