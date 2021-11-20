@@ -39,7 +39,8 @@ $ git push origin minha-alteracao
 Você deve navegar até o seu repositório onde fez o fork e clicar no botão *New pull request* no lado esquerdo da página.
 
 
-
+## Website
+Para acessa nossa página é simples, basta entrar no nosso site <a href="https://cristianodasilvaferreira.github.io/Coffee-Shop/" target="_black">Coffee Shop</a>
 
 
 
